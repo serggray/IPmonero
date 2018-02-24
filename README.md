@@ -8,6 +8,4 @@ Please use only 3 parameters:
 -u username(or wallet)
 -p password(or email)
 
-Sample: IPmonero -s pool:port -u username(wallet) -p x
-
 (If you need also CPU mining - please add parameter -enableCPUmining)
